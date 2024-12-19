@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
+import github from '@astro/github-integration';
 
-// https://astro.build/config
 export default defineConfig({
-    site: ' https://laxmanbishwokarma.com.np',
-    base: 'website',
+    integrations: [github()],
+    base: '/website/'
 });
