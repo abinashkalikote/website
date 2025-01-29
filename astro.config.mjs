@@ -1,5 +1,4 @@
 import { defineConfig } from 'astro/config';
 
-export default defineConfig({
-    site: 'https://laxmanbishwokarma.com.np',
-});
+// https://astro.build/config
+export default defineConfig({});

@@ -7,6 +7,7 @@ hero:
   image:
     src: /abinash-kalikote.png
     alt: "Abinash Kalikote - Software Engineer"
+    class: "profile-image"
   actions:
     - theme: brand
       text: "Explore Courses"
